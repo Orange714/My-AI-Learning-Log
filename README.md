@@ -1,3 +1,3 @@
 # My-AI-Learning-Log
 争取周更
-- 知识蒸馏
+- 📂: [Knowledge Distillation 指路](https://cloud.tencent.com/developer/article/1763873)
